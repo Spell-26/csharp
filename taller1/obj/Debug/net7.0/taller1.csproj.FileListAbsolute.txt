@@ -1,0 +1,15 @@
+D:\dev\sena\c#\taller1\bin\Debug\net7.0\taller1.exe
+D:\dev\sena\c#\taller1\bin\Debug\net7.0\taller1.deps.json
+D:\dev\sena\c#\taller1\bin\Debug\net7.0\taller1.runtimeconfig.json
+D:\dev\sena\c#\taller1\bin\Debug\net7.0\taller1.dll
+D:\dev\sena\c#\taller1\bin\Debug\net7.0\taller1.pdb
+D:\dev\sena\c#\taller1\obj\Debug\net7.0\taller1.csproj.AssemblyReference.cache
+D:\dev\sena\c#\taller1\obj\Debug\net7.0\taller1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sena\c#\taller1\obj\Debug\net7.0\taller1.AssemblyInfoInputs.cache
+D:\dev\sena\c#\taller1\obj\Debug\net7.0\taller1.AssemblyInfo.cs
+D:\dev\sena\c#\taller1\obj\Debug\net7.0\taller1.csproj.CoreCompileInputs.cache
+D:\dev\sena\c#\taller1\obj\Debug\net7.0\taller1.dll
+D:\dev\sena\c#\taller1\obj\Debug\net7.0\refint\taller1.dll
+D:\dev\sena\c#\taller1\obj\Debug\net7.0\taller1.pdb
+D:\dev\sena\c#\taller1\obj\Debug\net7.0\taller1.genruntimeconfig.cache
+D:\dev\sena\c#\taller1\obj\Debug\net7.0\ref\taller1.dll
