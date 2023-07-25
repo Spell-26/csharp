@@ -34,10 +34,7 @@ namespace ConsoleApp1
                 Console.WriteLine($"Retiro exitoso!\nSaldo disponible: {_monto}");
             }
         }
-        public double RetornarMonto()
-        {
-            return _monto;
-        }
+
 
         //getters y setters
         public double Monto
