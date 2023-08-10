@@ -1,0 +1,15 @@
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\bin\Debug\net7.0\Electrodomesticos.exe
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\bin\Debug\net7.0\Electrodomesticos.deps.json
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\bin\Debug\net7.0\Electrodomesticos.runtimeconfig.json
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\bin\Debug\net7.0\Electrodomesticos.dll
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\bin\Debug\net7.0\Electrodomesticos.pdb
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\obj\Debug\net7.0\Electrodomesticos.csproj.AssemblyReference.cache
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\obj\Debug\net7.0\Electrodomesticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\obj\Debug\net7.0\Electrodomesticos.AssemblyInfoInputs.cache
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\obj\Debug\net7.0\Electrodomesticos.AssemblyInfo.cs
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\obj\Debug\net7.0\Electrodomesticos.csproj.CoreCompileInputs.cache
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\obj\Debug\net7.0\Electrodomesticos.dll
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\obj\Debug\net7.0\refint\Electrodomesticos.dll
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\obj\Debug\net7.0\Electrodomesticos.pdb
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\obj\Debug\net7.0\Electrodomesticos.genruntimeconfig.cache
+D:\dev\sena\c#\taller2\Electrodomesticos\Electrodomesticos\obj\Debug\net7.0\ref\Electrodomesticos.dll
