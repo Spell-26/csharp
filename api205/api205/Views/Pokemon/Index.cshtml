@@ -1,0 +1,31 @@
+﻿@model IEnumerable<api205.Models.Pokemon>
+
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    Nombre
+                </th>
+                <th>
+                    URL
+                </th>
+               
+            </tr>
+        </thead>
+    <tbody>
+        @foreach (var pokemon in Model)
+        {   
+            <tr>
+                <td>
+                    @pokemon.name
+                </td>
+                <td>
+                    @pokemon.url
+                </td>
+             
+            </tr>
+            
+        }
+    </tbody>
+    </table>
+    
