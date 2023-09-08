@@ -1,4 +1,4 @@
-﻿@model IEnumerable<api205.Models.Pokemon>
+﻿@model IEnumerable<api205.Models.PokemonInfo>
 
     <table>
         <thead>
@@ -17,10 +17,11 @@
         {   
             <tr>
                 <td>
-                    @pokemon.name
+                    @pokemon.Name
                 </td>
                 <td>
-                    @pokemon.url
+                    <img src="@pokemon.ImageUrl" alt="Imagen de @pokemon.Name"/>
+          
                 </td>
              
             </tr>

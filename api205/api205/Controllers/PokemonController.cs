@@ -14,7 +14,7 @@ namespace api205.Controllers
         [HttpGet]
         public async Task<IActionResult> Index()
         {
-            var pokemons = await _pokemonService.GetPokemons();
+            var pokemons = await _pokemonService.GetPokemon();
             return View(pokemons);
         }
     }

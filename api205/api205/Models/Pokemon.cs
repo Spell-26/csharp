@@ -6,4 +6,10 @@
         public string url { get; set; }
         
     }
+
+    public class PokemonInfo
+    {
+        public string Name { get; set; }
+        public string ImageUrl { get; set; }
+    }
 }
